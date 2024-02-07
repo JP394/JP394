@@ -2,7 +2,7 @@
 
 
 ## About me
-I am an aspiring cybersecurity professional, interested in both offensive and defensive security.
+I am an aspiring Cybersecurity professional, interested in both offensive and defensive security.
 I will primarily be focusing on security operations, SIEM analysis and all things blue team related, with the occasional mix of pentesting, hack the box etc for red team knowledge.
 
 ## Projects
